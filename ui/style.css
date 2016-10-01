@@ -3,3 +3,13 @@ body {
     background-color: lightgrey;
     margin-top: 30px;
 }
+.content
+{
+    font-family:sans-serif;
+    font-size:160%;
+}
+.hcontent
+{
+    font-family:sans-serif;
+    font-size:200%;
+}
